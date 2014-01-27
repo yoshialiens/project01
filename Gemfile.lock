@@ -133,7 +133,7 @@ PLATFORMS
 
 DEPENDENCIES
   coffee-rails (~> 3.2.1)
-  heroku
+
   jquery-rails
   pg
   rails (= 3.2.12)
